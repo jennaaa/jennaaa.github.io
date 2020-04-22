@@ -1,7 +1,7 @@
 "use strict";
 
 Physijs.scripts.worker = '/js/ThreeLib/physijs_worker.js';
-Physijs.scripts.ammo = "http://chandlerprall.github.io/Physijs/examples/js/ammo.js";
+Physijs.scripts.ammo = "/js/ThreeLib/ammo.js";
 
 let LOADING_NOT_DONE = true;
 let loadingManager = null;
